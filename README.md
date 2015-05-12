@@ -1,5 +1,5 @@
 # MarkTex-Pandoc-Template
-This repoisotry provides a template for writing beamer presentations and latex styled
+This repository provides a template for writing beamer presentations and latex styled
 reports using the simple syntax of the markdown language
 
 ## Usage
